@@ -27,8 +27,6 @@ https://docs.soliditylang.org/en/latest/resources.html
 <a href="https://img.shields.io/github/license/mosi-sol/gist" target="blank"><img src="https://img.shields.io/github/license/mosi-sol/gist" alt="pafecafe" /></a> 
 </span>
 <span align="right"> 
-<a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Fgist
-" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Fgist
-" alt="pafecafe" /></a> 
+<a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Fgist" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Fgist" alt="pafecafe" /></a> 
 </span>
 </div>
