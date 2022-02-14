@@ -21,7 +21,6 @@ enum example, todo list -> https://gist.github.com/mosi-sol/793677f7593db3eb0476
 ethereum recources: 
 https://docs.soliditylang.org/en/latest/resources.html
 
-
 ##
 <div>
 <span align="left"> 
