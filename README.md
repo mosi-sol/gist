@@ -9,6 +9,8 @@ royality(erc2981) merge into nft(erc721) -> https://gist.github.com/mosi-sol/2c6
 
 safe send eth -> https://gist.github.com/mosi-sol/ef58479b584ba4dad65d1834e2a7c2ac
 
+enum example, todo list -> https://gist.github.com/mosi-sol/793677f7593db3eb047668955a7f50a3
+
 
 ##
 ethereum recources: 
