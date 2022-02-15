@@ -23,6 +23,7 @@ simple decentralize bank -> https://gist.github.com/mosi-sol/2032f563ae43069b3e0
 ethereum recources: 
 https://docs.soliditylang.org/en/latest/resources.html
 
+watch my gist: https://gist.github.com/mosi-sol
 ##
 <div>
 <span align="left"> 
