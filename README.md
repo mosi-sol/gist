@@ -16,6 +16,8 @@ safe send eth -> https://gist.github.com/mosi-sol/ef58479b584ba4dad65d1834e2a7c2
 
 enum example, todo list -> https://gist.github.com/mosi-sol/793677f7593db3eb047668955a7f50a3
 
+simple decentralize bank -> https://gist.github.com/mosi-sol/2032f563ae43069b3e0a7f2fb9208c24
+
 
 ##
 ethereum recources: 
